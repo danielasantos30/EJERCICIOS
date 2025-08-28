@@ -1,6 +1,6 @@
 package OPERACIONES;
 /**
- * hola
+ * hola daniela
  */
 public class DIVISION {
 	private double N1;
